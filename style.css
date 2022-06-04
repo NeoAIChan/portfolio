@@ -110,27 +110,3 @@ body {
   font-weight: 400;
   opacity: 0.5;
 }
-
-.card .content .details .actionBtn {
-  display: flex;
-  justify-content: space-between;
-  gap: 20px;
-}
-
-.card .content .details .actionBtn button {
-  padding: 10px 30px;
-  border: none;
-  border-radius: 20px;
-  outline: none;
-  font-size: 1em;
-  font-weight: 500;
-  color: #fff;
-  background: #f55757;
-}
-
-.card .content .details .actionBtn button:nth-child(2) {
-  border: 1px solid #999;
-  color: #999;
-  background: #fff;
-}
-
