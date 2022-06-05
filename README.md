@@ -1,3 +1,3 @@
-# neoaichan.github.io
+# My portfolio
 
-This is my own portfolio
+Just updating it day-by-day.
